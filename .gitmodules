@@ -1,0 +1,4 @@
+[submodule "AnyKerenl3"]
+	path = AnyKerenl3
+	url = https://github.com/glikched/AnyKernel3
+	branch = r9q
