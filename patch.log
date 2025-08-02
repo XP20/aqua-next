@@ -1,0 +1,11 @@
+can't find file to patch at input line 973
+Perhaps you used the wrong -p or --strip option?
+The text leading up to this was:
+--------------------------
+|diff --git a/fs/proc/bootconfig.c b/fs/proc/bootconfig.c
+|index 2e244ada1f97..792e1cb04b11 100644
+|--- a/fs/proc/bootconfig.c
+|+++ b/fs/proc/bootconfig.c
+--------------------------
+File to patch: Skip this patch? [y] y
+Skipping patch.
